@@ -1,0 +1,20 @@
+{
+  "author": "Sean Micklethwaite <sean@sdmworld.co.uk>",
+  "name": "resource-mongo",
+  "description": "MongoDB Data Store for Resource",
+  "version": "0.0.1",
+  "repository": {
+    "url": ""
+  },
+  "engines": {
+    "node": ">=0.4.2"
+  },
+  "dependencies": {
+    "coop": ">=0.1.2",
+    "node-promise": ">=0.5.1",
+    "event-queue": "https://github.com/tehsenaus/reactor-commonjs/tarball/master",
+    "mongodb": ">=0.9.6-7",
+    "resource": "https://github.com/tehsenaus/node-resource/tarball/master"
+  },
+  "devDependencies": {}
+}
